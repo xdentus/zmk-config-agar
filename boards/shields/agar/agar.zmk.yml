@@ -1,0 +1,8 @@
+file_format: '1'
+id: agar
+name: AGAR
+type: shield
+url: https://github.com/Bastardkb/TBK-Mini
+requires: [Nice!Nano]
+features:
+  - keys
